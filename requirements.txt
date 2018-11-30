@@ -1,0 +1,4 @@
+flask
+flask_restful
+urllib3
+json
